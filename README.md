@@ -1,0 +1,1 @@
+# issue-styled-jsx-dirname
